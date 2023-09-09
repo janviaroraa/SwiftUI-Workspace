@@ -11,6 +11,7 @@
 		120724442AAC9098002D2DED /* DynamicLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 120724432AAC9098002D2DED /* DynamicLoader.swift */; };
 		120724462AAC909A002D2DED /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 120724452AAC909A002D2DED /* Assets.xcassets */; };
 		120724492AAC909A002D2DED /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 120724482AAC909A002D2DED /* Preview Assets.xcassets */; };
+		120724502AACAE65002D2DED /* FidgetSpinner.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1207244F2AACAE65002D2DED /* FidgetSpinner.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		120724432AAC9098002D2DED /* DynamicLoader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DynamicLoader.swift; sourceTree = "<group>"; };
 		120724452AAC909A002D2DED /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		120724482AAC909A002D2DED /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		1207244F2AACAE65002D2DED /* FidgetSpinner.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FidgetSpinner.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				120724412AAC9098002D2DED /* SwiftUIWorkspaceApp.swift */,
 				120724432AAC9098002D2DED /* DynamicLoader.swift */,
+				1207244F2AACAE65002D2DED /* FidgetSpinner.swift */,
 				120724452AAC909A002D2DED /* Assets.xcassets */,
 				120724472AAC909A002D2DED /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				120724442AAC9098002D2DED /* DynamicLoader.swift in Sources */,
+				120724502AACAE65002D2DED /* FidgetSpinner.swift in Sources */,
 				120724422AAC9098002D2DED /* SwiftUIWorkspaceApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
