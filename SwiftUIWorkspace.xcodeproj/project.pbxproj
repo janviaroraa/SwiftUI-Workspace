@@ -15,6 +15,8 @@
 		120724522AAD942B002D2DED /* AnimationIndicatorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 120724512AAD942B002D2DED /* AnimationIndicatorView.swift */; };
 		120724552AAD9A49002D2DED /* TextBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 120724542AAD9A49002D2DED /* TextBootcamp.swift */; };
 		126DBE422AADA8B5000B866A /* ShapesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 126DBE412AADA8B5000B866A /* ShapesBootcamp.swift */; };
+		126DBE442AADB214000B866A /* ColorBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 126DBE432AADB214000B866A /* ColorBootcamp.swift */; };
+		12A2E8872AADB76B00104EEF /* SystemColorBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12A2E8862AADB76B00104EEF /* SystemColorBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +29,8 @@
 		120724512AAD942B002D2DED /* AnimationIndicatorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationIndicatorView.swift; sourceTree = "<group>"; };
 		120724542AAD9A49002D2DED /* TextBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextBootcamp.swift; sourceTree = "<group>"; };
 		126DBE412AADA8B5000B866A /* ShapesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapesBootcamp.swift; sourceTree = "<group>"; };
+		126DBE432AADB214000B866A /* ColorBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorBootcamp.swift; sourceTree = "<group>"; };
+		12A2E8862AADB76B00104EEF /* SystemColorBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SystemColorBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +87,8 @@
 			children = (
 				120724542AAD9A49002D2DED /* TextBootcamp.swift */,
 				126DBE412AADA8B5000B866A /* ShapesBootcamp.swift */,
+				126DBE432AADB214000B866A /* ColorBootcamp.swift */,
+				12A2E8862AADB76B00104EEF /* SystemColorBootcamp.swift */,
 			);
 			path = Bootcamp;
 			sourceTree = "<group>";
@@ -161,6 +167,8 @@
 				120724502AACAE65002D2DED /* FidgetSpinner.swift in Sources */,
 				120724422AAC9098002D2DED /* SwiftUIWorkspaceApp.swift in Sources */,
 				120724522AAD942B002D2DED /* AnimationIndicatorView.swift in Sources */,
+				126DBE442AADB214000B866A /* ColorBootcamp.swift in Sources */,
+				12A2E8872AADB76B00104EEF /* SystemColorBootcamp.swift in Sources */,
 				126DBE422AADA8B5000B866A /* ShapesBootcamp.swift in Sources */,
 				120724552AAD9A49002D2DED /* TextBootcamp.swift in Sources */,
 			);
