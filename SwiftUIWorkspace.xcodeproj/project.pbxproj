@@ -17,6 +17,7 @@
 		126DBE422AADA8B5000B866A /* ShapesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 126DBE412AADA8B5000B866A /* ShapesBootcamp.swift */; };
 		126DBE442AADB214000B866A /* ColorBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 126DBE432AADB214000B866A /* ColorBootcamp.swift */; };
 		12A2E8872AADB76B00104EEF /* SystemColorBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12A2E8862AADB76B00104EEF /* SystemColorBootcamp.swift */; };
+		12A2E8AB2AAEEC2900104EEF /* ClockView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12A2E8AA2AAEEC2900104EEF /* ClockView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		126DBE412AADA8B5000B866A /* ShapesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapesBootcamp.swift; sourceTree = "<group>"; };
 		126DBE432AADB214000B866A /* ColorBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorBootcamp.swift; sourceTree = "<group>"; };
 		12A2E8862AADB76B00104EEF /* SystemColorBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SystemColorBootcamp.swift; sourceTree = "<group>"; };
+		12A2E8AA2AAEEC2900104EEF /* ClockView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClockView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +69,7 @@
 				120724432AAC9098002D2DED /* DynamicLoader.swift */,
 				1207244F2AACAE65002D2DED /* FidgetSpinner.swift */,
 				120724512AAD942B002D2DED /* AnimationIndicatorView.swift */,
+				12A2E8AA2AAEEC2900104EEF /* ClockView.swift */,
 				120724452AAC909A002D2DED /* Assets.xcassets */,
 				120724532AAD9A35002D2DED /* Bootcamp */,
 				120724472AAC909A002D2DED /* Preview Content */,
@@ -170,6 +173,7 @@
 				126DBE442AADB214000B866A /* ColorBootcamp.swift in Sources */,
 				12A2E8872AADB76B00104EEF /* SystemColorBootcamp.swift in Sources */,
 				126DBE422AADA8B5000B866A /* ShapesBootcamp.swift in Sources */,
+				12A2E8AB2AAEEC2900104EEF /* ClockView.swift in Sources */,
 				120724552AAD9A49002D2DED /* TextBootcamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
