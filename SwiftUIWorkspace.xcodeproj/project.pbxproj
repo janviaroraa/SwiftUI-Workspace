@@ -16,6 +16,8 @@
 		120724552AAD9A49002D2DED /* TextBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 120724542AAD9A49002D2DED /* TextBootcamp.swift */; };
 		126DBE422AADA8B5000B866A /* ShapesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 126DBE412AADA8B5000B866A /* ShapesBootcamp.swift */; };
 		126DBE442AADB214000B866A /* ColorBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 126DBE432AADB214000B866A /* ColorBootcamp.swift */; };
+		1277430F2AB089AC007194D0 /* DotDividerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1277430E2AB089AC007194D0 /* DotDividerView.swift */; };
+		127743132AB08B4A007194D0 /* PickerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 127743122AB08B4A007194D0 /* PickerBootcamp.swift */; };
 		12A2E8872AADB76B00104EEF /* SystemColorBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12A2E8862AADB76B00104EEF /* SystemColorBootcamp.swift */; };
 		12A2E8AB2AAEEC2900104EEF /* ClockView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12A2E8AA2AAEEC2900104EEF /* ClockView.swift */; };
 		12A2E8AD2AAEF3B200104EEF /* GradientBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12A2E8AC2AAEF3B200104EEF /* GradientBootcamp.swift */; };
@@ -32,6 +34,8 @@
 		120724542AAD9A49002D2DED /* TextBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextBootcamp.swift; sourceTree = "<group>"; };
 		126DBE412AADA8B5000B866A /* ShapesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapesBootcamp.swift; sourceTree = "<group>"; };
 		126DBE432AADB214000B866A /* ColorBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorBootcamp.swift; sourceTree = "<group>"; };
+		1277430E2AB089AC007194D0 /* DotDividerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DotDividerView.swift; sourceTree = "<group>"; };
+		127743122AB08B4A007194D0 /* PickerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PickerBootcamp.swift; sourceTree = "<group>"; };
 		12A2E8862AADB76B00104EEF /* SystemColorBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SystemColorBootcamp.swift; sourceTree = "<group>"; };
 		12A2E8AA2AAEEC2900104EEF /* ClockView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClockView.swift; sourceTree = "<group>"; };
 		12A2E8AC2AAEF3B200104EEF /* GradientBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientBootcamp.swift; sourceTree = "<group>"; };
@@ -72,6 +76,7 @@
 				1207244F2AACAE65002D2DED /* FidgetSpinner.swift */,
 				120724512AAD942B002D2DED /* AnimationIndicatorView.swift */,
 				12A2E8AA2AAEEC2900104EEF /* ClockView.swift */,
+				1277430E2AB089AC007194D0 /* DotDividerView.swift */,
 				120724452AAC909A002D2DED /* Assets.xcassets */,
 				120724532AAD9A35002D2DED /* Bootcamp */,
 				120724472AAC909A002D2DED /* Preview Content */,
@@ -95,6 +100,7 @@
 				126DBE432AADB214000B866A /* ColorBootcamp.swift */,
 				12A2E8862AADB76B00104EEF /* SystemColorBootcamp.swift */,
 				12A2E8AC2AAEF3B200104EEF /* GradientBootcamp.swift */,
+				127743122AB08B4A007194D0 /* PickerBootcamp.swift */,
 			);
 			path = Bootcamp;
 			sourceTree = "<group>";
@@ -173,11 +179,13 @@
 				120724502AACAE65002D2DED /* FidgetSpinner.swift in Sources */,
 				12A2E8AD2AAEF3B200104EEF /* GradientBootcamp.swift in Sources */,
 				120724422AAC9098002D2DED /* SwiftUIWorkspaceApp.swift in Sources */,
+				1277430F2AB089AC007194D0 /* DotDividerView.swift in Sources */,
 				120724522AAD942B002D2DED /* AnimationIndicatorView.swift in Sources */,
 				126DBE442AADB214000B866A /* ColorBootcamp.swift in Sources */,
 				12A2E8872AADB76B00104EEF /* SystemColorBootcamp.swift in Sources */,
 				126DBE422AADA8B5000B866A /* ShapesBootcamp.swift in Sources */,
 				12A2E8AB2AAEEC2900104EEF /* ClockView.swift in Sources */,
+				127743132AB08B4A007194D0 /* PickerBootcamp.swift in Sources */,
 				120724552AAD9A49002D2DED /* TextBootcamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
