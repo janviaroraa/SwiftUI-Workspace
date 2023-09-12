@@ -21,6 +21,7 @@
 		12A2E8872AADB76B00104EEF /* SystemColorBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12A2E8862AADB76B00104EEF /* SystemColorBootcamp.swift */; };
 		12A2E8AB2AAEEC2900104EEF /* ClockView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12A2E8AA2AAEEC2900104EEF /* ClockView.swift */; };
 		12A2E8AD2AAEF3B200104EEF /* GradientBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12A2E8AC2AAEF3B200104EEF /* GradientBootcamp.swift */; };
+		12BF74842AB08EA20026D896 /* SystemIconsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12BF74832AB08EA20026D896 /* SystemIconsBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -39,6 +40,7 @@
 		12A2E8862AADB76B00104EEF /* SystemColorBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SystemColorBootcamp.swift; sourceTree = "<group>"; };
 		12A2E8AA2AAEEC2900104EEF /* ClockView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClockView.swift; sourceTree = "<group>"; };
 		12A2E8AC2AAEF3B200104EEF /* GradientBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientBootcamp.swift; sourceTree = "<group>"; };
+		12BF74832AB08EA20026D896 /* SystemIconsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SystemIconsBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 				12A2E8862AADB76B00104EEF /* SystemColorBootcamp.swift */,
 				12A2E8AC2AAEF3B200104EEF /* GradientBootcamp.swift */,
 				127743122AB08B4A007194D0 /* PickerBootcamp.swift */,
+				12BF74832AB08EA20026D896 /* SystemIconsBootcamp.swift */,
 			);
 			path = Bootcamp;
 			sourceTree = "<group>";
@@ -184,6 +187,7 @@
 				126DBE442AADB214000B866A /* ColorBootcamp.swift in Sources */,
 				12A2E8872AADB76B00104EEF /* SystemColorBootcamp.swift in Sources */,
 				126DBE422AADA8B5000B866A /* ShapesBootcamp.swift in Sources */,
+				12BF74842AB08EA20026D896 /* SystemIconsBootcamp.swift in Sources */,
 				12A2E8AB2AAEEC2900104EEF /* ClockView.swift in Sources */,
 				127743132AB08B4A007194D0 /* PickerBootcamp.swift in Sources */,
 				120724552AAD9A49002D2DED /* TextBootcamp.swift in Sources */,
