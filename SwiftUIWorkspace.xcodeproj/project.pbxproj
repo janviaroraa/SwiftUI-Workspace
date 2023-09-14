@@ -26,6 +26,7 @@
 		12BF74882AB17A850026D896 /* ImageBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12BF74872AB17A850026D896 /* ImageBootcamp.swift */; };
 		12BF748A2AB17EB40026D896 /* TwitterAddButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12BF74892AB17EB40026D896 /* TwitterAddButton.swift */; };
 		12DB066A2AB2D0FD00AB5731 /* TikTok.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12DB06692AB2D0FD00AB5731 /* TikTok.swift */; };
+		12DB066C2AB2D5DA00AB5731 /* FrameBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12DB066B2AB2D5DA00AB5731 /* FrameBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -49,6 +50,7 @@
 		12BF74872AB17A850026D896 /* ImageBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageBootcamp.swift; sourceTree = "<group>"; };
 		12BF74892AB17EB40026D896 /* TwitterAddButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwitterAddButton.swift; sourceTree = "<group>"; };
 		12DB06692AB2D0FD00AB5731 /* TikTok.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TikTok.swift; sourceTree = "<group>"; };
+		12DB066B2AB2D5DA00AB5731 /* FrameBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -116,6 +118,7 @@
 				127743122AB08B4A007194D0 /* PickerBootcamp.swift */,
 				12BF74832AB08EA20026D896 /* SystemIconsBootcamp.swift */,
 				12BF74872AB17A850026D896 /* ImageBootcamp.swift */,
+				12DB066B2AB2D5DA00AB5731 /* FrameBootcamp.swift */,
 			);
 			path = Bootcamp;
 			sourceTree = "<group>";
@@ -192,6 +195,7 @@
 			files = (
 				120724442AAC9098002D2DED /* DynamicLoader.swift in Sources */,
 				120724502AACAE65002D2DED /* FidgetSpinner.swift in Sources */,
+				12DB066C2AB2D5DA00AB5731 /* FrameBootcamp.swift in Sources */,
 				12A2E8AD2AAEF3B200104EEF /* GradientBootcamp.swift in Sources */,
 				120724422AAC9098002D2DED /* SwiftUIWorkspaceApp.swift in Sources */,
 				1277430F2AB089AC007194D0 /* DotDividerView.swift in Sources */,
