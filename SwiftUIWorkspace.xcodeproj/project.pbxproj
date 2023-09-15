@@ -28,6 +28,8 @@
 		12DB066A2AB2D0FD00AB5731 /* TikTok.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12DB06692AB2D0FD00AB5731 /* TikTok.swift */; };
 		12DB066C2AB2D5DA00AB5731 /* FrameBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12DB066B2AB2D5DA00AB5731 /* FrameBootcamp.swift */; };
 		12DB06982AB41F4F00AB5731 /* SystemSoundsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12DB06972AB41F4F00AB5731 /* SystemSoundsView.swift */; };
+		12DB069C2AB4268700AB5731 /* OverlaysBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12DB069B2AB4268700AB5731 /* OverlaysBootcamp.swift */; };
+		12DB069E2AB42CE200AB5731 /* BackgroundBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12DB069D2AB42CE200AB5731 /* BackgroundBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -53,6 +55,8 @@
 		12DB06692AB2D0FD00AB5731 /* TikTok.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TikTok.swift; sourceTree = "<group>"; };
 		12DB066B2AB2D5DA00AB5731 /* FrameBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameBootcamp.swift; sourceTree = "<group>"; };
 		12DB06972AB41F4F00AB5731 /* SystemSoundsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SystemSoundsView.swift; sourceTree = "<group>"; };
+		12DB069B2AB4268700AB5731 /* OverlaysBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OverlaysBootcamp.swift; sourceTree = "<group>"; };
+		12DB069D2AB42CE200AB5731 /* BackgroundBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -122,6 +126,8 @@
 				12BF74832AB08EA20026D896 /* SystemIconsBootcamp.swift */,
 				12BF74872AB17A850026D896 /* ImageBootcamp.swift */,
 				12DB066B2AB2D5DA00AB5731 /* FrameBootcamp.swift */,
+				12DB069D2AB42CE200AB5731 /* BackgroundBootcamp.swift */,
+				12DB069B2AB4268700AB5731 /* OverlaysBootcamp.swift */,
 			);
 			path = Bootcamp;
 			sourceTree = "<group>";
@@ -200,6 +206,7 @@
 				120724502AACAE65002D2DED /* FidgetSpinner.swift in Sources */,
 				12DB066C2AB2D5DA00AB5731 /* FrameBootcamp.swift in Sources */,
 				12A2E8AD2AAEF3B200104EEF /* GradientBootcamp.swift in Sources */,
+				12DB069C2AB4268700AB5731 /* OverlaysBootcamp.swift in Sources */,
 				120724422AAC9098002D2DED /* SwiftUIWorkspaceApp.swift in Sources */,
 				1277430F2AB089AC007194D0 /* DotDividerView.swift in Sources */,
 				120724522AAD942B002D2DED /* AnimationIndicatorView.swift in Sources */,
@@ -214,6 +221,7 @@
 				127743132AB08B4A007194D0 /* PickerBootcamp.swift in Sources */,
 				12BF748A2AB17EB40026D896 /* TwitterAddButton.swift in Sources */,
 				120724552AAD9A49002D2DED /* TextBootcamp.swift in Sources */,
+				12DB069E2AB42CE200AB5731 /* BackgroundBootcamp.swift in Sources */,
 				12BF74862AB178A90026D896 /* ToolBarTitleMenu.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
