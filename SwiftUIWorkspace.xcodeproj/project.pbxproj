@@ -15,6 +15,8 @@
 		120724522AAD942B002D2DED /* AnimationIndicatorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 120724512AAD942B002D2DED /* AnimationIndicatorView.swift */; };
 		120724552AAD9A49002D2DED /* TextBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 120724542AAD9A49002D2DED /* TextBootcamp.swift */; };
 		1212FDD12AB967BB00506D91 /* TabViewSample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1212FDD02AB967BB00506D91 /* TabViewSample.swift */; };
+		1212FDD32AB9685400506D91 /* PaddingAndSpacingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1212FDD22AB9685400506D91 /* PaddingAndSpacingBootcamp.swift */; };
+		1212FDD52AB96B0300506D91 /* SlidingTextFrames.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1212FDD42AB96B0300506D91 /* SlidingTextFrames.swift */; };
 		126DBE422AADA8B5000B866A /* ShapesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 126DBE412AADA8B5000B866A /* ShapesBootcamp.swift */; };
 		126DBE442AADB214000B866A /* ColorBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 126DBE432AADB214000B866A /* ColorBootcamp.swift */; };
 		1277430F2AB089AC007194D0 /* DotDividerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1277430E2AB089AC007194D0 /* DotDividerView.swift */; };
@@ -45,6 +47,8 @@
 		120724512AAD942B002D2DED /* AnimationIndicatorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationIndicatorView.swift; sourceTree = "<group>"; };
 		120724542AAD9A49002D2DED /* TextBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextBootcamp.swift; sourceTree = "<group>"; };
 		1212FDD02AB967BB00506D91 /* TabViewSample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViewSample.swift; sourceTree = "<group>"; };
+		1212FDD22AB9685400506D91 /* PaddingAndSpacingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingAndSpacingBootcamp.swift; sourceTree = "<group>"; };
+		1212FDD42AB96B0300506D91 /* SlidingTextFrames.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SlidingTextFrames.swift; sourceTree = "<group>"; };
 		126DBE412AADA8B5000B866A /* ShapesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapesBootcamp.swift; sourceTree = "<group>"; };
 		126DBE432AADB214000B866A /* ColorBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorBootcamp.swift; sourceTree = "<group>"; };
 		1277430E2AB089AC007194D0 /* DotDividerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DotDividerView.swift; sourceTree = "<group>"; };
@@ -107,6 +111,7 @@
 				12DB06972AB41F4F00AB5731 /* SystemSoundsView.swift */,
 				12DB06B12AB8104500AB5731 /* TextFieldAlert.swift */,
 				1212FDD02AB967BB00506D91 /* TabViewSample.swift */,
+				1212FDD42AB96B0300506D91 /* SlidingTextFrames.swift */,
 				120724452AAC909A002D2DED /* Assets.xcassets */,
 				120724532AAD9A35002D2DED /* Bootcamp */,
 				120724472AAC909A002D2DED /* Preview Content */,
@@ -137,6 +142,7 @@
 				12DB069D2AB42CE200AB5731 /* BackgroundBootcamp.swift */,
 				12DB069B2AB4268700AB5731 /* OverlaysBootcamp.swift */,
 				12DB06B32AB811F300AB5731 /* StacksBootcamp.swift */,
+				1212FDD22AB9685400506D91 /* PaddingAndSpacingBootcamp.swift */,
 			);
 			path = Bootcamp;
 			sourceTree = "<group>";
@@ -223,6 +229,7 @@
 				12A2E8872AADB76B00104EEF /* SystemColorBootcamp.swift in Sources */,
 				1212FDD12AB967BB00506D91 /* TabViewSample.swift in Sources */,
 				126DBE422AADA8B5000B866A /* ShapesBootcamp.swift in Sources */,
+				1212FDD32AB9685400506D91 /* PaddingAndSpacingBootcamp.swift in Sources */,
 				12BF74842AB08EA20026D896 /* SystemIconsBootcamp.swift in Sources */,
 				12DB06B22AB8104500AB5731 /* TextFieldAlert.swift in Sources */,
 				12DB066A2AB2D0FD00AB5731 /* TikTok.swift in Sources */,
@@ -233,6 +240,7 @@
 				127743132AB08B4A007194D0 /* PickerBootcamp.swift in Sources */,
 				12BF748A2AB17EB40026D896 /* TwitterAddButton.swift in Sources */,
 				120724552AAD9A49002D2DED /* TextBootcamp.swift in Sources */,
+				1212FDD52AB96B0300506D91 /* SlidingTextFrames.swift in Sources */,
 				12DB069E2AB42CE200AB5731 /* BackgroundBootcamp.swift in Sources */,
 				12BF74862AB178A90026D896 /* ToolBarTitleMenu.swift in Sources */,
 			);
