@@ -17,6 +17,9 @@
 		1212FDD12AB967BB00506D91 /* TabViewSample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1212FDD02AB967BB00506D91 /* TabViewSample.swift */; };
 		1212FDD32AB9685400506D91 /* PaddingAndSpacingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1212FDD22AB9685400506D91 /* PaddingAndSpacingBootcamp.swift */; };
 		1212FDD52AB96B0300506D91 /* SlidingTextFrames.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1212FDD42AB96B0300506D91 /* SlidingTextFrames.swift */; };
+		1212FE282ABAB3E300506D91 /* MovingCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1212FE272ABAB3E300506D91 /* MovingCardView.swift */; };
+		1212FE2A2ABAB63E00506D91 /* SpacerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1212FE292ABAB63E00506D91 /* SpacerBootcamp.swift */; };
+		1212FE2C2ABABE9500506D91 /* SpacerBootcamp2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1212FE2B2ABABE9500506D91 /* SpacerBootcamp2.swift */; };
 		126DBE422AADA8B5000B866A /* ShapesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 126DBE412AADA8B5000B866A /* ShapesBootcamp.swift */; };
 		126DBE442AADB214000B866A /* ColorBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 126DBE432AADB214000B866A /* ColorBootcamp.swift */; };
 		1277430F2AB089AC007194D0 /* DotDividerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1277430E2AB089AC007194D0 /* DotDividerView.swift */; };
@@ -49,6 +52,9 @@
 		1212FDD02AB967BB00506D91 /* TabViewSample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViewSample.swift; sourceTree = "<group>"; };
 		1212FDD22AB9685400506D91 /* PaddingAndSpacingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingAndSpacingBootcamp.swift; sourceTree = "<group>"; };
 		1212FDD42AB96B0300506D91 /* SlidingTextFrames.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SlidingTextFrames.swift; sourceTree = "<group>"; };
+		1212FE272ABAB3E300506D91 /* MovingCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovingCardView.swift; sourceTree = "<group>"; };
+		1212FE292ABAB63E00506D91 /* SpacerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpacerBootcamp.swift; sourceTree = "<group>"; };
+		1212FE2B2ABABE9500506D91 /* SpacerBootcamp2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpacerBootcamp2.swift; sourceTree = "<group>"; };
 		126DBE412AADA8B5000B866A /* ShapesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapesBootcamp.swift; sourceTree = "<group>"; };
 		126DBE432AADB214000B866A /* ColorBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorBootcamp.swift; sourceTree = "<group>"; };
 		1277430E2AB089AC007194D0 /* DotDividerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DotDividerView.swift; sourceTree = "<group>"; };
@@ -112,6 +118,7 @@
 				12DB06B12AB8104500AB5731 /* TextFieldAlert.swift */,
 				1212FDD02AB967BB00506D91 /* TabViewSample.swift */,
 				1212FDD42AB96B0300506D91 /* SlidingTextFrames.swift */,
+				1212FE272ABAB3E300506D91 /* MovingCardView.swift */,
 				120724452AAC909A002D2DED /* Assets.xcassets */,
 				120724532AAD9A35002D2DED /* Bootcamp */,
 				120724472AAC909A002D2DED /* Preview Content */,
@@ -143,6 +150,8 @@
 				12DB069B2AB4268700AB5731 /* OverlaysBootcamp.swift */,
 				12DB06B32AB811F300AB5731 /* StacksBootcamp.swift */,
 				1212FDD22AB9685400506D91 /* PaddingAndSpacingBootcamp.swift */,
+				1212FE292ABAB63E00506D91 /* SpacerBootcamp.swift */,
+				1212FE2B2ABABE9500506D91 /* SpacerBootcamp2.swift */,
 			);
 			path = Bootcamp;
 			sourceTree = "<group>";
@@ -229,11 +238,14 @@
 				12A2E8872AADB76B00104EEF /* SystemColorBootcamp.swift in Sources */,
 				1212FDD12AB967BB00506D91 /* TabViewSample.swift in Sources */,
 				126DBE422AADA8B5000B866A /* ShapesBootcamp.swift in Sources */,
+				1212FE282ABAB3E300506D91 /* MovingCardView.swift in Sources */,
 				1212FDD32AB9685400506D91 /* PaddingAndSpacingBootcamp.swift in Sources */,
 				12BF74842AB08EA20026D896 /* SystemIconsBootcamp.swift in Sources */,
 				12DB06B22AB8104500AB5731 /* TextFieldAlert.swift in Sources */,
 				12DB066A2AB2D0FD00AB5731 /* TikTok.swift in Sources */,
 				12DB06982AB41F4F00AB5731 /* SystemSoundsView.swift in Sources */,
+				1212FE2C2ABABE9500506D91 /* SpacerBootcamp2.swift in Sources */,
+				1212FE2A2ABAB63E00506D91 /* SpacerBootcamp.swift in Sources */,
 				12BF74882AB17A850026D896 /* ImageBootcamp.swift in Sources */,
 				12DB06B42AB811F300AB5731 /* StacksBootcamp.swift in Sources */,
 				12A2E8AB2AAEEC2900104EEF /* ClockView.swift in Sources */,
