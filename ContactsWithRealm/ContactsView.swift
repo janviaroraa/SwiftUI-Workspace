@@ -9,7 +9,7 @@ import SwiftUI
 
 struct ContactsView: View {
     @State private var isShowing = false
-    @State var items: [Contact] = Contact.tempData
+    @State private var items: [Contact] = Contact.tempData
 
     var body: some View {
         NavigationView {
@@ -88,6 +88,7 @@ extension ContactsView {
 
                 if toAdd {
                     items.append(contact)
+                    RealmHelper.shared.addContact(contact)
                 } else {
                     items[index] = contact
                 }

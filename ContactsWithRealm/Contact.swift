@@ -6,20 +6,29 @@
 //
 
 import Foundation
+import RealmSwift
 
-class Contact {
-    var id = UUID().uuidString
-    var firstName: String
-    var lastName: String
+import UIKit
+import RealmSwift
 
-    init(firstName: String, lastName: String) {
-        self.firstName = firstName
-        self.lastName = lastName
+class RealmHelper {
+    static let shared = RealmHelper()
+
+    private var realm = try! Realm()
+
+    init() { }
+
+    func databaseURL() -> URL? {
+        return realm.configuration.fileURL
     }
 
-    static var tempData = [
-        Contact(firstName: "Janvi", lastName: "Arora"),
-        Contact(firstName: "Nandini", lastName: "Arora"),
-        Contact(firstName: "Srithik", lastName: "Arora"),
-    ]
+    func addContact(_ contact: Contact) {
+        try! realm.write {
+            realm.add(contact)
+        }
+    }
+
+    func getAllContacts() -> [Contact] {
+        return Array(realm.objects(Contact.self))
+    }
 }
